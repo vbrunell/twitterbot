@@ -16,4 +16,8 @@ First, sign up for the necessary keys to access the APIs and Twitter and add tho
 Next, simply open a terminal, navigate to the Python scripts, and type:
 
 * `python wordBot.py` to run the bot.  It will tweet your word definition to the account attached to your key.
-* `python word.py` to view the output of the Wordnik API examples. 
+* `python word.py` to view the output of the Wordnik API examples.
+
+# Scheduling the bot
+
+To schedule the bot to execute regularly you can use [crontab](http://www.computerhope.com/unix/ucrontab.htm) on Linux/Unix or set up a [scheduled task](https://www.drupal.org/node/31506) in Windows.
