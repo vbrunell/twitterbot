@@ -1,4 +1,4 @@
-# wordB0t
+# wordBot
 
 This Twitterbot is built using Python and two APIs:
 
