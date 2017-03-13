@@ -11,7 +11,7 @@ word.py contains examples for the Wordnik API used to retrieve information about
 
 # Running the bot
 
-First, sign up for the necessary keys to access the APIs and Twitter.
+First, sign up for the necessary keys to access the APIs and Twitter and add those keys to the Python scripts.
 
 Next, simply open a terminal, navigate to the Python scripts, and type:
 
